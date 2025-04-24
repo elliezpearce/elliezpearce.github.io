@@ -1,7 +1,8 @@
+---
 layout: page
 title: "elliezpearce cv"
 permalink: /cv
-
+---
   <!DOCTYPE html>
 <html>
 <head>
